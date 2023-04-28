@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/vmy8q0F/image.png" alt="image" border="0" width="100%">
+<img src="https://i.ibb.co/BCW4JNR/github-header-image-1.png" alt="github-header-image-1" border="0" width="100%">
 
 # 💫 About Me:
 🌱 I’m currently learning Sabaragamuwa University of Sri Lanka<br>📫 How to reach me sahanranasingha1@gmail.com<br>⚡ Fun fact I am funny😅
