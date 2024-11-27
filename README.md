@@ -1,24 +1,128 @@
-<img src="https://i.ibb.co/BCW4JNR/github-header-image-1.png" alt="github-header-image-1" border="0" width="100%">
+<p align="center" ><img  src = "https://github.com/sahanRanasingha/sahanRanasingha/blob/main/profileHeader.gif?raw=true" width = 100px></p>
+<h1 align="center">Hi 👋, I'm Sahan Ranasingha</h1>
+<h3 align="center">A passionate full-stack and software developer from Sri Lanka.</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahanRanasingha&label=Profile%20views&color=0e75b6&style=flat" alt="sahanRanasingha" /> </p>
 
-# 💫 About Me:
-🌱 I’m currently learning Sabaragamuwa University of Sri Lanka<br>📫 How to reach me sahanranasingha1@gmail.com<br>⚡ Fun fact I am funny😅
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **Python**
 
-<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="image" border="0" width="100%" height="20%">
+- 🧑‍🎓 I’m an Undergraduate at **Sabaragamuwa University of Sri Lanka**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sahan.ranasingha.180) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahan-ranasingha-010395193) 
+- 💬 Ask me about **Python**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahanRanasingha&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sahanRanasingha&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanRanasingha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 📫 How to reach me **sahanranasingha1@gmail.com**
+  
+- ⚡ Fun fact **Call me as sANaa**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://github.com/sahanRanasingha/sahanRanasingha/blob/main/developer.gif">
+
+  
+  </td>
+</tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sahanRanasingha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sahanRanasingha&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sahan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanRanasingha&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahanRanasingha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/sahanranasingha" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahanranasingha" height="50" width="50" style="margin-left: 10px; margin-right: 10px;" />
+</a>
+<a href="https://fb.com/sahanRanasingha" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahanRanasingha" height="50" width="50" style="margin-left: 10px; margin-right: 10px;" />
+</a>
+<a href="https://www.instagram.com/sahan.ranasingha/" target="blank">
+  <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="sahan.ranasingha" height="50" width="50" style="margin-left: 10px; margin-right: 10px;" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Light.svg" alt="flask" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Django.svg" alt="django" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Light.svg" alt="firebase" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50" style="margin-left: 5px; margin-right: 5px;" />
+</a>
+
+</p>
