@@ -126,3 +126,16 @@
 </a>
 
 </p>
+
+---
+
+<h3 align="center">Support Me:</h3>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/rsahan" target="_blank">
+      <img src="https://github.com/sahanRanasingha/sahanRanasingha/blob/main/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="150">
+  </a>
+  <p><i>Scan the QR code or <a href="https://www.buymeacoffee.com/rsahan" target="_blank">click here</a> to support me!</i></p>
+</div>
+
+
+
