@@ -7,15 +7,13 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Python**
-
-- 🧑‍🎓 I’m an Undergraduate at **Sabaragamuwa University of Sri Lanka**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **sahanranasingha1@gmail.com**
-  
-- ⚡ Fun fact **Call me as sANaa**
+- 💼 I'm currently working as an **Associate Software Engineer at Artslab Creatives**
+- 🎓 B.Sc. in Computer Science & Technology at **Sabaragamuwa University of Sri Lanka**
+- 💻 I build full-stack web applications, APIs, and software solutions
+- 🌱 I'm currently improving my skills in **Application development, Cloud & DevOps**
+- 💬 Ask me about **JavaScript, React, Node.js, Laravel, MongoDB, and Full-Stack Development**
+- 📫 How to reach me: **sahanranasingha1@gmail.com**
+- ⚡ Fun fact: **Call me as sANaa**
 
 </td>
 <td width="50%" align="center">
