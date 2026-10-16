@@ -1,7 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="211" viewBox="0 0 1200 211" role="img" aria-labelledby="t"><title id="t">Code to cloud — current learning direction</title>
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6FAFF"/><stop offset="1" stop-color="#EAF2FD"/></linearGradient><style><![CDATA[.beam{stroke-dasharray:7 12;animation:beam 5s linear infinite}.pulse{animation:light 3s ease-in-out infinite}@keyframes beam{to{stroke-dashoffset:-150}}@keyframes light{50%{opacity:.25}}@media(prefers-reduced-motion:reduce){.beam,.pulse{animation:none}}]]></style></defs>
-<rect width="1200" height="211" rx="20" fill="url(#g)"/><rect x="1" y="1" width="1198" height="209" rx="19" stroke="#BBC9DD" fill="none"/>
-<text x="36" y="31" font-family="DejaVu Sans Mono,monospace" font-size="13" letter-spacing="2" fill="#526787">CURRENTLY EXPLORING // DEVELOPMENT TO DEPLOYMENT</text>
-<path d="M150 106H1060" stroke="#007F9D" stroke-width="2" opacity=".25"/>
-<path class="beam" d="M150 106H1060" stroke="#007F9D" stroke-width="2.5" opacity=".65"/>
-<g><rect x="37" y="52" width="255" height="108" rx="17" fill="#FFFFFF" stroke="#BBC9DD"/><rect x="51" y="66" width="43" height="27" rx="9" fill="#EDF3FB" stroke="#007F9D" stroke-opacity=".4"/><text x="72" y="85" font-family="DejaVu Sans Mono,monospace" font-size="13" text-anchor="middle" fill="#007F9D">01</text><text x="54" y="118" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" fill="#112440">CODE</text><text x="54" y="143" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#526787">Product engineering</text></g><g><rect x="326" y="52" width="255" height="108" rx="17" fill="#FFFFFF" stroke="#BBC9DD"/><rect x="340" y="66" width="43" height="27" rx="9" fill="#EDF3FB" stroke="#007F9D" stroke-opacity=".4"/><text x="361" y="85" font-family="DejaVu Sans Mono,monospace" font-size="13" text-anchor="middle" fill="#007F9D">02</text><text x="343" y="118" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" fill="#112440">BUILD</text><text x="343" y="143" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#526787">Reliable workflows</text></g><g><rect x="615" y="52" width="255" height="108" rx="17" fill="#FFFFFF" stroke="#BBC9DD"/><rect x="629" y="66" width="43" height="27" rx="9" fill="#EDF3FB" stroke="#007F9D" stroke-opacity=".4"/><text x="650" y="85" font-family="DejaVu Sans Mono,monospace" font-size="13" text-anchor="middle" fill="#007F9D">03</text><text x="632" y="118" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" fill="#112440">SHIP</text><text x="632" y="143" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#526787">CI / CD</text></g><g><rect x="904" y="52" width="255" height="108" rx="17" fill="#FFFFFF" stroke="#BBC9DD"/><rect x="918" y="66" width="43" height="27" rx="9" fill="#EDF3FB" stroke="#007F9D" stroke-opacity=".4"/><text x="939" y="85" font-family="DejaVu Sans Mono,monospace" font-size="13" text-anchor="middle" fill="#007F9D">04</text><text x="921" y="118" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" fill="#112440">SCALE</text><text x="921" y="143" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#526787">Cloud &amp; automation</text></g><text x="1161" y="191" text-anchor="end" font-family="DejaVu Sans Mono,monospace" font-size="10.5" fill="#69819D">LEARNING  ·  EXPERIMENTING  ·  SHIPPING</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="211" viewBox="0 0 1200 211" role="img" aria-labelledby="t">
+  <title id="t">Plan to scale — current learning direction</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F6FAFF"/>
+      <stop offset="1" stop-color="#EAF2FD"/>
+    </linearGradient>
+    <style><![CDATA[
+      .beam { stroke-dasharray: 7 12; animation: beam 5s linear infinite; }
+      .pulse { animation: light 3s ease-in-out infinite; }
+      @keyframes beam { to { stroke-dashoffset: -150; } }
+      @keyframes light { 50% { opacity: .25; } }
+      @media (prefers-reduced-motion: reduce) { .beam, .pulse { animation: none; } }
+    ]]></style>
+  </defs>
+
+  <rect width="1200" height="211" rx="20" fill="url(#g)"/>
+  <rect x="1" y="1" width="1198" height="209" rx="19" stroke="#BBC9DD" fill="none"/>
+
+  <text x="36" y="31" font-family="DejaVu Sans Mono,monospace" font-size="13" letter-spacing="2" fill="#526787">CURRENTLY EXPLORING // DEVELOPMENT TO DEPLOYMENT</text>
+
+  <!-- Connecting Beam Lines -->
+  <path d="M120 106H1080" stroke="#007F9D" stroke-width="2" opacity=".25"/>
+  <path class="beam" d="M120 106H1080" stroke="#007F9D" stroke-width="2.5" opacity=".65"/>
+
+  <!-- Stage 01: PLAN -->
+  <g>
+    <rect x="36" y="52" width="205" height="108" rx="17" fill="#FFFFFF" stroke="#BBC9DD"/>
+    <rect x="50" y="66" width="40" height="27" rx="9" fill="#EDF3FB" stroke="#007F9D" stroke-opacity=".4"/>
+    <text x="70" y="85" font-family="DejaVu Sans Mono,monospace" font-size="13" text-anchor="middle" fill="#007F9D">01</text>
+    <text x="52" y="118" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="700" fill="#112440">PLAN</text>
+    <text x="52" y="142" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#526787">Architecture &amp; design</text>
+  </g>
+
+  <!-- Stage 02: CODE -->
+  <g>
+    <rect x="267" y="52" width="205" height="108" rx="17" fill="#FFFFFF" stroke="#BBC9DD"/>
+    <rect x="281" y="66" width="40" height="27" rx="8" fill="#EDF3FB" stroke="#007F9D" stroke-opacity=".4"/>
+    <text x="301" y="85" font-family="DejaVu Sans Mono,monospace" font-size="13" text-anchor="middle" fill="#007F9D">02</text>
+    <text x="283" y="118" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="700" fill="#112440">CODE</text>
+    <text x="283" y="142" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#526787">Product engineering</text>
+  </g>
+
+  <!-- Stage 03: BUILD -->
+  <g>
+    <rect x="498" y="52" width="205" height="108" rx="17" fill="#FFFFFF" stroke="#BBC9DD"/>
+    <rect x="512" y="66" width="40" height="27" rx="8" fill="#EDF3FB" stroke="#007F9D" stroke-opacity=".4"/>
+    <text x="532" y="85" font-family="DejaVu Sans Mono,monospace" font-size="13" text-anchor="middle" fill="#007F9D">03</text>
+    <text x="514" y="118" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="700" fill="#112440">BUILD</text>
+    <text x="514" y="142" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#526787">Reliable workflows</text>
+  </g>
+
+  <!-- Stage 04: SHIP -->
+  <g>
+    <rect x="729" y="52" width="205" height="108" rx="17" fill="#FFFFFF" stroke="#BBC9DD"/>
+    <rect x="743" y="66" width="40" height="27" rx="8" fill="#EDF3FB" stroke="#007F9D" stroke-opacity=".4"/>
+    <text x="763" y="85" font-family="DejaVu Sans Mono,monospace" font-size="13" text-anchor="middle" fill="#007F9D">04</text>
+    <text x="745" y="118" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="700" fill="#112440">SHIP</text>
+    <text x="745" y="142" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#526787">CI / CD automation</text>
+  </g>
+
+  <!-- Stage 05: SCALE -->
+  <g>
+    <rect x="960" y="52" width="205" height="108" rx="17" fill="#FFFFFF" stroke="#BBC9DD"/>
+    <rect x="974" y="66" width="40" height="27" rx="8" fill="#EDF3FB" stroke="#007F9D" stroke-opacity=".4"/>
+    <text x="994" y="85" font-family="DejaVu Sans Mono,monospace" font-size="13" text-anchor="middle" fill="#007F9D">05</text>
+    <text x="976" y="118" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="700" fill="#112440">SCALE</text>
+    <text x="976" y="142" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" fill="#526787">Cloud &amp; automation</text>
+  </g>
+
+  <text x="1161" y="191" text-anchor="end" font-family="DejaVu Sans Mono,monospace" font-size="10.5" fill="#69819D">LEARNING  ·  EXPERIMENTING  ·  SHIPPING</text>
+</svg>

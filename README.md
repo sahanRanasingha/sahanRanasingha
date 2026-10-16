@@ -53,7 +53,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg" />
-  <img src="assets/pipeline-dark.svg" width="100%" alt="Current learning direction: Code, Build, Ship, Scale — Cloud and DevOps" />
+  <img src="assets/pipeline-dark.svg" width="100%" alt="Current learning direction: Plan, Code, Build, Ship, Scale — Cloud and DevOps" />
 </picture>
 
 ### `04` / GitHub in motion
