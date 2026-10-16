@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
+<title id="t">Sahan Ranasingha — Associate Software Engineer</title><desc id="d">Motion banner: full-stack developer focused on cloud and DevOps, with terminal illustration.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F6FAFF"/><stop offset="1" stop-color="#EAF2FD"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#007F9D"/><stop offset="0.55" stop-color="#7352C1"/><stop offset="1" stop-color="#007F9D"/></linearGradient>
+<radialGradient id="orb1"><stop stop-color="#007F9D" stop-opacity=".23"/><stop offset="1" stop-color="#007F9D" stop-opacity="0"/></radialGradient>
+<radialGradient id="orb2"><stop stop-color="#7352C1" stop-opacity=".15"/><stop offset="1" stop-color="#7352C1" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#C5D5E8" stroke-width=".7" opacity=".39"/></pattern>
+<clipPath id="clip"><rect width="1200" height="430" rx="24"/></clipPath>
+<style><![CDATA[
+.orb{animation:drift 10s ease-in-out infinite alternate;transform-origin:1012px 220px}
+.orb2{animation:drift2 12s ease-in-out infinite alternate;transform-origin:140px 340px}
+.caret{animation:blink 1s steps(1,end) infinite}
+.signal{stroke-dasharray:5 12;animation:flow 7s linear infinite}
+.dot{animation:pulse 2.8s ease-in-out infinite}
+.scroll{animation:float 6s ease-in-out infinite alternate}
+@keyframes drift{to{transform:translate(-35px,15px)}}@keyframes drift2{to{transform:translate(45px,-20px)}}
+@keyframes blink{50%{opacity:0}}@keyframes flow{to{stroke-dashoffset:-170}}@keyframes pulse{50%{opacity:.28}}@keyframes float{to{transform:translateY(-8px)}}
+@media (prefers-reduced-motion:reduce){.orb,.orb2,.caret,.signal,.dot,.scroll{animation:none}}
+]]></style>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="430" fill="url(#bg)"/>
+<rect width="1200" height="430" fill="url(#grid)"/>
+<circle class="orb" cx="1020" cy="210" r="360" fill="url(#orb1)"/>
+<circle class="orb2" cx="170" cy="390" r="270" fill="url(#orb2)"/>
+<path d="M0 425 C180 409 390 449 590 421 S1000 407 1200 423" fill="none" stroke="#007F9D" opacity=".19" stroke-width="1.8"/>
+<path class="signal" d="M0 425 C180 409 390 449 590 421 S1000 407 1200 423" fill="none" stroke="#007F9D" opacity=".82" stroke-width="2"/>
+<rect x="1.5" y="1.5" width="1197" height="427" rx="22.5" fill="none" stroke="#BBC9DD" stroke-width="1.6"/>
+<!-- Left identity -->
+<rect x="62" y="49" width="13" height="13" rx="3.5" fill="#007F9D"/>
+<text x="89" y="62" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="15" letter-spacing="2.6" font-weight="700" fill="#526787">HELLO WORLD / I'M SAHAN</text>
+<rect x="62" y="105" width="276" height="38" rx="19" stroke="#007F9D" stroke-opacity=".7" fill="#EDF3FB"/>
+<circle class="dot" cx="82" cy="124" r="8" fill="#007F9D" opacity=".18"/><circle cx="82" cy="124" r="4" fill="#007F9D"/>
+<text x="100" y="129" font-family="DejaVu Sans,Arial,sans-serif" font-size="14.4" font-weight="700" letter-spacing=".75" fill="#007F9D">BUILDING WHAT'S NEXT</text>
+<text x="57" y="250" font-family="DejaVu Sans,Arial,sans-serif" font-size="104" letter-spacing="-5" font-weight="800" fill="#112440">SAHAN</text>
+<text x="60" y="316" font-family="DejaVu Sans,Arial,sans-serif" font-size="61" letter-spacing="-2.5" font-weight="800" fill="#112440">RANASINGHA</text>
+<rect x="64" y="334" width="112" height="5" rx="2.5" fill="url(#neon)"/>
+<text x="64" y="368" font-family="DejaVu Sans,Arial,sans-serif" font-size="18.5" fill="#526787">Associate Software Engineer</text>
+<text x="64" y="395" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13.5" fill="#007F9D" letter-spacing="1.3">FULL-STACK  /  CLOUD  /  DEVOPS</text>
+<!-- Terminal -->
+<g class="scroll">
+<rect x="738" y="70" width="398" height="303" rx="20" fill="#FFFFFF" stroke="#BBC9DD" stroke-width="1.8"/>
+<path d="M758 71H1116Q1135 71 1135 90V111H738V90Q738 71 758 71Z" fill="#EDF3FB"/>
+<path d="M738 111H1136" stroke="#BBC9DD"/>
+<circle cx="762" cy="92" r="5.2" fill="#FA7183"/><circle cx="782" cy="92" r="5.2" fill="#FFC14A"/><circle cx="802" cy="92" r="5.2" fill="#51D9A4"/>
+<text x="1003" y="97" text-anchor="middle" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="13" fill="#526787">sahan@dev ~ zsh</text>
+<text x="767" y="153" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="17" fill="#007F9D">$</text>
+<text x="790" y="153" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="17" fill="#112440">whoami</text>
+<text x="767" y="184" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="15" fill="#526787">Associate Software Engineer</text>
+<text x="767" y="224" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="17" fill="#007F9D">$</text>
+<text x="790" y="224" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="17" fill="#112440">focus --now</text>
+<text x="767" y="255" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="15.3" fill="#526787">Full-stack · Cloud · DevOps</text>
+<text x="767" y="295" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="17" fill="#007F9D">$</text>
+<text x="790" y="295" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="17" fill="#112440">git push origin future</text>
+<rect x="767" y="318" width="8" height="16" rx="1" fill="#007F9D" class="caret"/>
+</g>
+<text x="1135" y="393" text-anchor="end" font-family="DejaVu Sans Mono,Consolas,monospace" letter-spacing="1.5" font-size="10.5" fill="#69819D">MADE IN SRI LANKA  •  BUILT FOR EVERYWHERE</text>
+</g></svg>
