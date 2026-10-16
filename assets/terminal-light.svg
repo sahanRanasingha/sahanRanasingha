@@ -98,13 +98,13 @@
       </text>
 
       <text y="134">
-        <tspan x="18" class="txt-key-lt">"builds":</tspan>
-        <tspan class="txt-bracket-lt"> [</tspan><tspan class="txt-val-lt">"Web Apps"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"REST APIs"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"Software Solutions"</tspan><tspan class="txt-bracket-lt">],</tspan>
+        <tspan x="18" class="txt-key-lt">"stack":</tspan>
+        <tspan class="txt-bracket-lt"> [</tspan><tspan class="txt-val-lt">"Go"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">".NET"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"Laravel"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"Node"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"React"</tspan><tspan class="txt-bracket-lt">],</tspan>
       </text>
 
       <text y="156">
-        <tspan x="18" class="txt-key-lt">"exploring":</tspan>
-        <tspan class="txt-bracket-lt"> [</tspan><tspan class="txt-val-lt">"Cloud"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"DevOps"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"CI/CD"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"Automation"</tspan><tspan class="txt-bracket-lt">],</tspan>
+        <tspan x="18" class="txt-key-lt">"devops":</tspan>
+        <tspan class="txt-bracket-lt"> [</tspan><tspan class="txt-val-lt">"Docker"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"K8s"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"AWS"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"CI/CD"</tspan><tspan class="txt-bracket-lt">, </tspan><tspan class="txt-val-lt">"Terraform"</tspan><tspan class="txt-bracket-lt">],</tspan>
       </text>
 
       <text y="178">
