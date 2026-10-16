@@ -21,6 +21,8 @@ assets/
   pipeline-light.svg
   terminal-dark.svg
   terminal-light.svg
+  skills-carousel-dark.svg
+  skills-carousel-light.svg
 .github/
   workflows/
     snake.yml

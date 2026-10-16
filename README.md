@@ -40,21 +40,11 @@
 
 <div align="center">
 
-**Frontend & UI**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=dotnet,laravel,nodejs,express,php,mongodb,mysql,postgres,firebase&theme=dark" alt=".NET, Laravel, Node.js, Express, PHP, MongoDB, MySQL, PostgreSQL, Firebase" />
-
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=go,cs,python,java,c,cpp,flask,django&theme=dark" alt="Go, C#, Python, Java, C, C++, Flask, Django" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions,nginx,terraform,git&theme=dark" alt="Docker, Kubernetes, AWS, Linux, GitHub Actions, Nginx, Terraform, Git" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-carousel-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/skills-carousel-light.svg" />
+  <img src="assets/skills-carousel-dark.svg" width="100%" alt="Sahan Ranasingha Tech Stack &amp; Skills Carousel" />
+</picture>
 
 </div>
 
