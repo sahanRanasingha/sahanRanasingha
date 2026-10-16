@@ -29,15 +29,12 @@
 - ☁️ Focused on learning and improving in **Cloud, DevOps, CI/CD and deployment automation**
 - 🌍 Based in **Sri Lanka** · nickname **sANaa**
 
-```javascript
-const sahan = {
-  role: "Associate Software Engineer",
-  builds: ["Web apps", "REST APIs", "Useful software"],
-  exploring: ["Cloud", "DevOps", "CI/CD", "Automation"],
-  philosophy: "Build → Learn → Iterate → Ship",
-  status: "Always improving",
-};
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
+  <img src="assets/terminal-dark.svg" width="100%" alt="Sahan Ranasingha macOS CLI Terminal Card" />
+</picture>
+
 
 ### `02` / Tools of the trade
 

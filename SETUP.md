@@ -19,6 +19,8 @@ assets/
   hero-light.svg
   pipeline-dark.svg
   pipeline-light.svg
+  terminal-dark.svg
+  terminal-light.svg
 .github/
   workflows/
     snake.yml
